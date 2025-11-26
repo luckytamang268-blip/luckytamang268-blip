@@ -57,13 +57,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luckytamang268-blip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000"/>
+<img height="170" src="https://stats.dooboo.io/api/github-stats?login=luckytamang268-blip&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckytamang268-blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://stats.dooboo.io/api/top-langs?login=luckytamang268-blip&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=luckytamang268-blip&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="170" src="https://streak-stats.demolab.com?user=luckytamang268-blip&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 ---
 
