@@ -57,13 +57,14 @@
 
 <div align="center">
 
+<!-- Main Stats (Works with hyphens) -->
 <img height="170" src="https://stats.dooboo.io/api/github-stats?login=luckytamang268-blip&theme=tokyonight"/>
 
-<img height="170" src="https://stats.dooboo.io/api/top-langs?login=luckytamang268-blip&theme=tokyonight"/>
-
+<!-- Streak Stats (Works with hyphens) -->
 <img height="170" src="https://streak-stats.demolab.com?user=luckytamang268-blip&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 
 ---
