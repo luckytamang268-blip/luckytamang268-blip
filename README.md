@@ -44,13 +44,12 @@
 ## 🌟 Featured Projects
 
 ### 🔹 Lucky Ledger – AI Personal Finance Assistant  
-👉 https://github.com/luckyTamang268/lucky-ledger-agent
+👉 https://github.com/luckytamang268-blip/lucky-ledger-agent
 
 ### 🔹 Luxaro (LXR) – Telegram Mining Bot  
 👉 Coming soon…
 
 ### 🔹 Android Apps – Kotlin + Compose  
-Tools, utilities, simple ledger, productivity apps.
 
 ---
 
@@ -58,19 +57,20 @@ Tools, utilities, simple ledger, productivity apps.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luckyTamang268&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luckytamang268-blip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyTamang268&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckytamang268-blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=luckyTamang268&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=luckytamang268-blip&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
 
 ## 🔥 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyTamang268&theme=react-dark&bg_color=000000&hide_border=true&line=00c8ff&color=00eaff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckytamang268-blip&theme=react-dark&bg_color=000000&hide_border=true&line=00c8ff&color=00eaff" />
 </div>
 
 ---
@@ -95,7 +95,4 @@ Tools, utilities, simple ledger, productivity apps.
   </a>
 </p>
 
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0068ff,100:00eaff&section=footer)
-
